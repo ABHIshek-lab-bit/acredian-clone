@@ -2,7 +2,7 @@
 
 A modern, responsive clone of the Accredian Enterprise website built with Next.js 15, TypeScript, and Tailwind CSS.
 
-🔗 **Live Demo**: [Deployed on Vercel](https://your-deployment-url.vercel.app)  
+🔗 **Live Demo**: [Deployed on Vercel](https://acredian-clone.vercel.app/)  
 🔗 **Reference Site**: [https://enterprise.accredian.com/](https://enterprise.accredian.com/)
 
 ## 📋 Table of Contents
